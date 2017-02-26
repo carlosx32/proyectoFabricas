@@ -14,7 +14,7 @@ public class EscudoDelPantano implements Fabrica.EscudoAbs{
 
     @Override
     public String getImagenSrc() {
-        return "Imagenes/CazadoresImg/Traje.png";
+        return "Imagenes/CazadoresImg/Escudo.png";
     }
 
 }
