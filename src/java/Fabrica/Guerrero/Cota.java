@@ -14,6 +14,6 @@ public class Cota implements Fabrica.TrajeAbs{
     @Override
     public String getImagenSrc() {
         return  "Imagenes/GuerrerosImg/Traje.png";
-    }        
+    } 
     
 }
